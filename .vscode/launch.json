@@ -8,7 +8,8 @@
 			"name": "Executor",
 			"type": "sbsl",
 			"request": "launch",
-			"scriptFile": "${file}"
+			"scriptFile": "${file}",
+			"args": [true]
 		}
 	]
 }
